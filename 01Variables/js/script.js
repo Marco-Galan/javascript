@@ -1,27 +1,27 @@
-// //Variable String
-//  var producto = "Monitor";
-// console.log(producto);
+//Variable String
+ var producto = "Monitor";
+console.log(producto);
 
-// //Variable Int
-// producto = 20 ; 
-// console.log(producto);
+//Variable Int
+producto = 20 ; 
+console.log(producto);
 
-// //Multiples Variables
+//Multiples Variables
 
-// var categoria = "Computadoras",
-//     marca = "Lenovo",
-//     calificacion = "10";
+var categoria = "Computadoras",
+    marca = "Lenovo",
+    calificacion = "10";
 
 // Nueva versión
 
-let producto = "Producto Let";
-console.log(producto);
+let dato = "dato Let";
+console.log(dato);
 
-    producto ="Monitor";
-    console.log(producto);
+    dato ="Monitor";
+    console.log(dato);
 
-    producto = true;
-    console.log(producto);
+    dato = true;
+    console.log(dato);
 
-    producto = null;
-    console.log(producto);
+    dato = null;
+    console.log(dato);
